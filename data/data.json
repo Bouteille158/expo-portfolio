@@ -1,0 +1,21 @@
+{
+  "welcomeText": "Bonjour, je m'appelle Alexandre BENALI et ceci est mon portfolio React Native.",
+  "categories": [
+    {
+      "name": "Hobbies",
+      "list": ["Jeux vidéo", "Musculation", "Manger"]
+    },
+    {
+      "name": "Languages",
+      "list": ["Typescript", "BASH"]
+    },
+    {
+      "name": "Projets",
+      "list": [
+        "Home video server",
+        "Portique de métro connecté",
+        "Développement FullStack d'une application web de gestion administrative scolaire"
+      ]
+    }
+  ]
+}
